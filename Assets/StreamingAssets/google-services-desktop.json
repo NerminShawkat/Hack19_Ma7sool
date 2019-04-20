@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543069215922",
+    "firebase_url": "https://ma7sool.firebaseio.com",
+    "project_id": "ma7sool",
+    "storage_bucket": "ma7sool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543069215922:android:438eba20434a3707",
+        "android_client_info": {
+          "package_name": "com.HAND.ma7sool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543069215922-8agjjdkdpdm2tn02vu8rjh9if5te8v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqoIEmnl8WcD7gOCk8PudMi-NGrSc1uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543069215922-8agjjdkdpdm2tn02vu8rjh9if5te8v22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
